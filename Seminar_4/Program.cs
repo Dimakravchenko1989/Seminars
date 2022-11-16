@@ -1,4 +1,6 @@
-﻿// Задача 1. Напишите программу, которая принимает на вход число N и выдает сумму чисел от 1 до числа N.
+﻿// Семинар 4.
+
+// Задача 1. Напишите программу, которая принимает на вход число N и выдает сумму чисел от 1 до числа N.
 /*
 int FindSum(int number)
 {
@@ -87,3 +89,4 @@ int max = Convert.ToInt32(Console.ReadLine());
 int[]myArray = CreateRandomArray(n,min,max);
 ShowArray(myArray);
 */
+
